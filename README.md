@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Aditya Pandey</h1>
-<h3 align="center">I am passionate software engineer</h3>
+<h3 align="center">I am a passionate software engineer</h3>
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and low level programming**
 
-- 👨‍💻 All of my projects are available at 
+-👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **adityapand3y666@gmail.com**
+- 📫 Reach me at **adityapand3y666@gmail.com**
 
