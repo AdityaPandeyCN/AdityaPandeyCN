@@ -6,8 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaPandeyCN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandeyCN&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaPandeyCN&limit=5&theme=dark&combine_all_yearly_contributions=true)
