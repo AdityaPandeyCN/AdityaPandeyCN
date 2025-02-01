@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Rust and Low level programming**
 
-- 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/)
+- 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/pages/My%20Projects#My%20Projects)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandeyCN&theme=dark&hide_border=false)<br/>
 
