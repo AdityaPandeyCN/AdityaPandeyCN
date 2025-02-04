@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Rust and Low level programming**
 
 - 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/pages/My%20Projects#My%20Projects)
-- 👨‍💻 My Google Summer of Code blogs are [GSoC Blogs](https://adityapandeycn.github.io/personalblog/)
+- 👨‍💻 My Google Summer of Code blogs are here :- [GSoC Blogs](https://adityapandeycn.github.io/personalblog/)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandeyCN&theme=dark&hide_border=false)<br/>
 
