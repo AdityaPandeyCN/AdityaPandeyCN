@@ -13,7 +13,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaPandeyCN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AdityaPandeyCN&icon=0&color=0)](https://visitcount.itsvg.in)
-- 📫 Reach me at  **adityapand3y666@gmail.com**
+
 
