@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/pages/My%20Projects#My%20Projects)
 - 👨‍💻 My Google Summer of Code blogs are here :- [GSoC Blogs](https://adityapandeycn.github.io/personalblog/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandeyCN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandeyCN&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaPandeyCN&limit=5&theme=dark&combine_all_yearly_contributions=true)
