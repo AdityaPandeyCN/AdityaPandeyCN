@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate software engineer</h3>
 
 
-- 🌱 I’m currently learning **DevOps and Low level programming**
+- 🌱 I’m currently learning **Low level programming**
 
 - 👨‍💻 All of my projects are available at [Aditya'a Blog](https://adityapandeycn.github.io/personalblog/pages/My%20Projects#My%20Projects)
 - 👨‍💻 My Google Summer of Code blogs are here :- [GSoC Blogs](https://adityapandeycn.github.io/personalblog/)
